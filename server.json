@@ -26,9 +26,9 @@
     },
     {
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
-      "name": "Veggie top",
-      "price": "19.90",
-      "description": "Prato de macarrão top",
+      "name": "Veggie Massa",
+      "price": "29.90",
+      "description": "Prato de macarrão Massa",
       "available": true,
       "id": 4
     }
